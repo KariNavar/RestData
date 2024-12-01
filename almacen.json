@@ -13,32 +13,12 @@
     {
       "id": "4c9f",
       "rut": "16683032-K",
-      "nombre": "Eduardo",
-      "apellidos": "Monroy Chavez",
-      "email": "eduardo@duoc.cl",
-      "password": "duoc2024",
-      "isactive": true,
-      "imagen": "assets/imagenes/leo.png"
-    },
-    {
-      "id": "cc58",
-      "rut": "23352103-5",
-      "nombre": "Agustina",
-      "apellidos": "Arcos",
-      "email": "agustina@duoc.cl",
-      "password": "duoc2024",
-      "isactive": true,
-      "imagen": ""
-    },
-    {
-      "id": "7a10",
-      "rut": "17599918-3",
-      "nombre": "leonardo",
-      "apellidos": "di caprio",
+      "nombre": "Leonardo",
+      "apellidos": "Di Caprio",
       "email": "leo@duoc.cl",
       "password": "duoc2024",
       "isactive": true,
-      "imagen": ""
+      "imagen": "assets/imagenes/leo.png"
     }
   ],
   "eventos": [
