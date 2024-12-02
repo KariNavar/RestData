@@ -26,7 +26,7 @@
       "id": "1",
       "nombre": "SEMINARIO MOBILE",
       "descripcion": "Mobile World Congress",
-      "fecha": "30 Octubre 2024",
+      "fecha": "30 Enero 2025",
       "hora": "10:00 AM",
       "ubicacion": "Casa Piedra",
       "imagen": "assets/imagenes/mobile.png"
@@ -35,7 +35,7 @@
       "id": "2",
       "nombre": "CHARLA AGILIDAD",
       "descripcion": "Metodologías Ágiles",
-      "fecha": "10 Octubre 2024",
+      "fecha": "10 Febrero 2025",
       "hora": "01:00 PM",
       "ubicacion": "Auditorio Sede Maipú",
       "imagen": "assets/imagenes/images.jpeg"
@@ -44,7 +44,7 @@
       "id": "3",
       "nombre": "TALLER LIDERAZGO",
       "descripcion": "Liderazgo mas mujeres en las TIC",
-      "fecha": "27 Octubre 2024",
+      "fecha": "27 Diciembre 2024",
       "hora": "06:00 PM",
       "ubicacion": "Online",
       "imagen": "assets/imagenes/equipo.jpg"
@@ -53,7 +53,7 @@
       "id": "4",
       "nombre": "TALLER ROBOTICA",
       "descripcion": "Robótica y Programación",
-      "fecha": "04 Octubre 2024",
+      "fecha": "04 Enero 2025",
       "hora": "10:00 AM",
       "ubicacion": "Casino Sede Maipú",
       "imagen": "assets/imagenes/industria.png"
@@ -62,7 +62,7 @@
       "id": "5",
       "nombre": "CHARLA CONECTIVIDAD Y REDES",
       "descripcion": "Conoce la carrera de Ingeniería en Conectividad y Redes",
-      "fecha": "04 noviembre 2024",
+      "fecha": "04 Marzo 2025",
       "hora": "10:00 AM",
       "ubicacion": "Auditorio Sede Maipú",
       "imagen": "assets/imagenes/redes.png"
@@ -71,7 +71,7 @@
       "id": "6",
       "nombre": "CHARLA INFORMÁTICA",
       "descripcion": "Conoce la carrera de Ingeniería en Informática",
-      "fecha": "11 Noviembre 2024",
+      "fecha": "11 Febrero 2025",
       "hora": "12:00 PM",
       "ubicacion": "Auditorio Sede Maipú",
       "imagen": "assets/imagenes/informatica.png"
