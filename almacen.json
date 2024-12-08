@@ -3,9 +3,9 @@
     {
       "id": "1",
       "rut": "17599918-3",
-      "nombre": "Karina Alicia",
+      "nombre": "Karina",
       "apellidos": "Escobar Navarro",
-      "email": "kescobar@duoc.cl",
+      "email": "ka.escobarn@duocuc.cl",
       "password": "duoc2024",
       "isactive": true,
       "imagen": "assets/imagenes/karina.png"
